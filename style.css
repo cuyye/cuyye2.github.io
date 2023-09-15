@@ -1,0 +1,25 @@
+.nav-link:hover{
+    background-color: blue;
+    transition: .5s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 80px;
+}
+
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #b1ebeb;
+}
+
+#projects{
+    background-color: #b1ebeb;
+}
+
+
+.footer{
+    background-color:  rgb(71, 221, 235);
+}
+
+section{
+    padding-top: 5rem;
+}
